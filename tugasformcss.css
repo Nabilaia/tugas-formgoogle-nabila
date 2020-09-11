@@ -1,0 +1,99 @@
+fieldset{
+	display: inline-block;
+
+}
+
+}
+h1{
+	font-family: helcative;
+	font-size:25px;
+	margin: 10px 35;
+}
+h2{
+	font-family: helcative;
+	font-size: 15px;
+	margin: 10px 35;
+}
+h4{
+	font-family:helcative;
+	font-size:15px;
+	color: #0000ff;
+	margin: 10px 35;
+}
+h5{
+	font-family:helcative;
+	font-size: 15px;
+	margin: 10px 35;
+}
+p{
+	text-align: left;
+	font-weight: bold;
+
+}
+input{
+	padding:7px;
+	margin:5px 35; 
+
+}
+input{
+	padding: 7px
+	margin:5px 35;
+}
+.A{
+	font-family:helcative;
+    font-size: 15px
+}
+.B{
+	font-family:helcative;
+	font-size:15px;
+	width:54%;
+}
+.login{
+	border: none;
+	color: #0000ff;
+	background-color: #ffff;
+	padding: 22px;
+	font-size:15px;
+	font-family: arial;
+	font-weight: bold;
+	position: relative;
+	float:left;
+
+}
+.next{
+	border: none;
+	background-color: #0000ff;
+    color: #ffff
+	padding: 10px;
+	float:left;
+	font-weight: bold;
+	margin: 10px 500;
+    font-family: helcativa;
+
+}
+.pilih{
+	padding-top: 1px;
+	background-color: #ffffff;
+	border: none;
+	padding-right: 5px;
+}
+.tombol1{
+	border: none;
+	background-color: #ffffff;
+	padding-top: 5px;
+}
+.tombol{
+	border: none;
+	background-color: #ffffff;
+	padding-left: 5px;
+	padding-top: 5px;
+
+}
+.kosong{
+	padding: 7px 10px;
+	margin:10px 35;
+
+}
+.kosong1{
+	padding-left: 295px;
+}
